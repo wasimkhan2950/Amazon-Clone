@@ -1,0 +1,16 @@
+The Role of Algorithms in Computing: Insertion sort, Analyzing algorithms, Designing
+algorithms. Growth of Functions: Asymptotic notation, Standard notations and common 
+8
+functions. Divide-and-Conquer: The maximum-subarray problem, Strassen s algorithm
+for matrix multiplication, The substitution method for solving recurrences, The
+recursion-tree method for solving recurrences, Probabilistic Analysis and Randomized
+Algorithms: The hiring problem, Indicator random variables, Randomized algorithms,
+Probabilistic analysis and further uses of indicator random variables.
+
+
+Unit II: Advanced Design and Analysis Techniques
+Dynamic Programming: Rod cutting, Matrix-chain multiplication, Elements of dynamic
+programming, longest common subsequence. Greedy Algorithms: An activity-selection
+problem, Elements of the greedy strategy, Huffman codes. 
+
+Insertion sort
